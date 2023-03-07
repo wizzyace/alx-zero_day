@@ -1,1 +1,1 @@
-my first commit is up to date
+my first readme updated
